@@ -1,0 +1,2 @@
+# tradingking
+Trading bot
